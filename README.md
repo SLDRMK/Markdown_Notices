@@ -8,7 +8,7 @@
 
 2. [Formula and common characters](https://blog.csdn.net/weixin_41738030/article/details/102856924)
 
-4. When exporting .md to .pdf file, the formula cannot be rendered.
+4. When exporting a `.md` file to a `.pdf` file, the formula cannot be rendered.
   - Solution: Adding the following codes in the end of the markdown file.
 ```html
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
